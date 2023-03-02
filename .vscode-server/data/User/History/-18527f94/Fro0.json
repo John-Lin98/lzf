@@ -1,0 +1,42 @@
+{
+    "code-runner.runInTerminal": true,
+    "workbench.iconTheme": "vscode-icons",
+    "code-runner.fileDirectoryAsCwd": true,
+    "remote.SSH.defaultForwardedPorts": [
+
+
+
+    
+    ],
+    "remote.SSH.configFile": "C:\\Users\\JohnLin\\.ssh\\config",
+    "remote.SSH.path": "C:\\Windows\\System32\\OpenSSH\\ssh.exe",
+    "remote.SSH.remotePlatform": {
+        "202.38.95.228": "linux",
+        "lzf_bj": "linux",
+        "lzf_hf": "linux",
+        "lzf_bj_v100": "linux",
+        "lzf_bj_A800": "linux",
+        "lzf_hf1": "linux"
+    },
+    "markdown-preview-enhanced.automaticallyShowPreviewOfMarkdownBeingEdited": true,
+    "editor.tabCompletion": "on",
+    "editor.stickyTabStops": true,
+    "editor.insertSpaces": false,
+    "settingsSync.ignoredSettings": [
+        "remote.SSH.configFile",
+        "-python.condaPath",
+        "-python.defaultInterpreterPath",
+        "-python.experiments.enabled",
+        "-python.experiments.optInto",
+        "-python.experiments.optOutFrom",
+        "-python.formatting.autopep8Path"
+    ],
+    "[python]": {
+    },
+    "notebook.lineNumbers": "on",
+    "[json]": {
+        "editor.defaultFormatter": "HookyQR.beautify"
+    },
+    "editor.renderWhitespace": "all",
+    "jupyter.askForKernelRestart": false
+}

@@ -1,0 +1,15 @@
+2023-03-02 08:31:52.059 [info] Extension host agent started.
+2023-03-02 08:31:52.086 [info] Started initializing default profile extensions in extensions installation folder. file:///mnt/data10t/bakuphome20210617/lzf/.vscode-server/extensions
+2023-03-02 08:31:52.104 [info] [127.0.0.1][b316d2a2][ManagementConnection] New connection established.
+2023-03-02 08:31:52.106 [info] [127.0.0.1][9b1ab62d][ExtensionHostConnection] New connection established.
+2023-03-02 08:31:52.131 [info] [127.0.0.1][9b1ab62d][ExtensionHostConnection] <730259> Launched Extension Host Process.
+2023-03-02 08:31:52.177 [info] Completed initializing default profile extensions in extensions installation folder. file:///mnt/data10t/bakuphome20210617/lzf/.vscode-server/extensions
+2023-03-02 08:32:08.014 [info] [127.0.0.1][b316d2a2][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2023-03-02 08:32:08.044 [info] [127.0.0.1][9b1ab62d][ExtensionHostConnection] <730259> Extension Host Process exited with code: 0, signal: null.
+2023-03-02 08:32:08.044 [info] Last EH closed, waiting before shutting down
+2023-03-02 08:32:09.922 [info] Got delay-shutdown request while in shutdown timeout, delaying
+2023-03-02 08:32:09.922 [info] Cancelling previous shutdown timeout
+2023-03-02 08:32:09.986 [info] [127.0.0.1][429d67c2][ManagementConnection] New connection established.
+2023-03-02 08:32:10.014 [info] [127.0.0.1][16b5c1f5][ExtensionHostConnection] New connection established.
+2023-03-02 08:32:10.025 [info] [127.0.0.1][16b5c1f5][ExtensionHostConnection] <730624> Launched Extension Host Process.
+2023-03-02 08:37:09.922 [info] New EH opened, aborting shutdown
